@@ -1,2 +1,2 @@
 # Machine-Learning
-It contains projects based on each ML Algo.
+It contains projects based on several ML Algorithms.
